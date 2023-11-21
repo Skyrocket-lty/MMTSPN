@@ -19,7 +19,7 @@ scikit-learn == 1.2.0
 There are two datasets: HMDD v2.0 and HMDD v3.0.
 
 ## Running steps
-1.DataProcess.py
+1.DataProcess.py\
 2.MMTSPN.py
 
 ## Contact
